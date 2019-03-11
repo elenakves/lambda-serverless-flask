@@ -1,0 +1,27 @@
+{
+  "name": "flask-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-python-requirements": "github:T-Tmnr/serverless-python-requirements#fix-issue-274",
+    "serverless-wsgi": "^1.7.1"
+  },
+  "dependencies": {
+    "serverless": "^1.38.0"
+  },
+  "description": "********************************",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenakves/lambda-serverless-flask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elenakves/lambda-serverless-flask/issues"
+  },
+  "homepage": "https://github.com/elenakves/lambda-serverless-flask#readme"
+}
